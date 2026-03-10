@@ -1,5 +1,3 @@
 ### Hi there! 👋🏻
 
-I'm a part-time software developer and research student with a passion for exploring the intersection of technology, design, social networks, and human behavior.
-
-As someone who's always been fascinated by the online world, I've had hands-on experience building projects across various internet-based technologies and programming environments. These days, my focus is largely on computational social science and social bots, where I enjoy developing tools, methods, analyses and visualisations to obtain insights from complex datasets.
+Software developer and research student exploring the nexus of technology, design, networks and human behavior. With extensive hands-on experience building projects across diverse internet-based technologies, I now focus my work on computational social science, social bots and building analytical tools and visualizations that decode complex datasets to reveal deeper insights into online ecosystems.
